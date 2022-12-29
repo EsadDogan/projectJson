@@ -1,0 +1,29 @@
+{
+    "employees": [
+        {
+            "firstname": "John",
+            "age": 30,
+            "mail": "john@gmail.com"
+        },
+        {
+            "firstname": "Jimmy",
+            "age": 25,
+            "mail": "jimmy@gmail.com"
+        },
+        {
+            "firstname": "Jeremmy",
+            "age": 30,
+            "mail": "jeremmy@gmail.com"
+        },
+        {
+            "firstname": "Ahmad",
+            "age": 19,
+            "mail": "ahmad@gmail.com"
+        },
+        {
+            "firstname": "Omer",
+            "age": 22,
+            "mail": "baronOmer@gmail.com"
+        }
+    ]
+}
