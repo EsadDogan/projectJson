@@ -1,0 +1,34 @@
+{
+    "employees": [
+        {
+            "firstname": "Omer",
+            "lastname": "Ates",
+            "age": 21,
+            "mail": "atesomer@gmail.com"
+        },
+        {
+            "firstname": "Dilay",
+            "lastname": "Ertutcu",
+            "age": 20,
+            "mail": "ertutcudilay@gmail.com"
+        },
+        {
+            "firstname": "Alperen",
+            "lastname": "Demirel",
+            "age": 21,
+            "mail": "apog@gmail.com"
+        },
+        {
+            "firstname": "Ahmad",
+            "lastname": "Azizov",
+            "age": 19,
+            "mail": "ahmad@gmail.com"
+        },
+        {
+            "firstname": "Omer Faruk",
+            "lastname": "Ozen",
+            "age": 22,
+            "mail": "baronOmer31@gmail.com"
+        }
+    ]
+}
