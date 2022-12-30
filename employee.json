@@ -4,7 +4,7 @@
             "firstname": "Omer",
             "lastname": "Ates",
             "age": 21,
-            "mail": "atesomer@gmail.com"
+            "mail": "5"
         },
         {
             "firstname": "Dilay",
@@ -17,6 +17,24 @@
             "lastname": "Demirel",
             "age": 21,
             "mail": "apog@gmail.com"
+        },
+        {
+            "firstname": "Ahmad",
+            "lastname": "Azizov",
+            "age": 19,
+            "mail": "ahmad@gmail.com"
+        },
+        {
+            "firstname": "Ahmad",
+            "lastname": "Azizov",
+            "age": 19,
+            "mail": "ahmad@gmail.com"
+        },
+        {
+            "firstname": "Ahmad",
+            "lastname": "Azizov",
+            "age": 19,
+            "mail": "ahmad@gmail.com"
         },
         {
             "firstname": "Ahmad",
