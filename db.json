@@ -4,49 +4,57 @@
             "firstname": "Omer",
             "lastname": "Ates",
             "age": 21,
-            "mail": "4@gmail.com"
+            "mail": "atesomer@gmail.com",
+            "urlimage": "https://i.ibb.co/HGbj5ct/omerAtes.png"
         },
         {
             "firstname": "Dilay",
             "lastname": "Ertutcu",
             "age": 20,
-            "mail": "ertutcudilay@gmail.com"
+            "mail": "ertutcudilay@gmail.com",
+            "urlimage": "https://i.ibb.co/jGxnVbp/dilay-Ertutcu.png"
         },
         {
             "firstname": "Alperen",
             "lastname": "Demirel",
             "age": 21,
-            "mail": "apog@gmail.com"
+            "mail": "apog@gmail.com",
+            "urlimage": "https://i.ibb.co/fvsfTPG/alperen-Demirel.png"
         },
         {
             "firstname": "Ahmad",
             "lastname": "Azizov",
             "age": 19,
-            "mail": "ahmad@gmail.com"
+            "mail": "ahmad@gmail.com",
+            "urlimage": "https://i.ibb.co/BKW75GS/ahmad-Azizov.png"
         },
         {
-            "firstname": "Ahmad",
-            "lastname": "Azizov",
-            "age": 19,
-            "mail": "ahmad@gmail.com"
+            "firstname": "Said Berk",
+            "lastname": "Kurt",
+            "age": 23,
+            "mail": "saidkurt@gmail.com",
+            "urlimage": "https://i.ibb.co/WfrwVSW/saidKurt.png"
         },
         {
-            "firstname": "Ahmad",
-            "lastname": "Azizov",
-            "age": 19,
-            "mail": "ahmad@gmail.com"
+            "firstname": "Sevval",
+            "lastname": "Kurt",
+            "age": 20,
+            "mail": "sevvalKurt@gmail.com",
+            "urlimage": "https://i.ibb.co/HtbpMJg/sevval-Kesgin.png"
         },
         {
-            "firstname": "Ahmad",
-            "lastname": "Azizov",
-            "age": 19,
-            "mail": "ahmad@gmail.com"
+            "firstname": "Esad",
+            "lastname": "Dogan",
+            "age": 21,
+            "mail": "esadddogan@gmail.com",
+            "urlimage": "https://i.ibb.co/W3fTbxQ/esad-Dogan.jpg"
         },
         {
             "firstname": "Omer Faruk",
             "lastname": "Ozen",
             "age": 22,
-            "mail": "baronOmer31@gmail.com"
+            "mail": "baronOmer31@gmail.com",
+            "urlimage": "https://i.ibb.co/nLTBcR0/omerOzen.png"
         }
     ]
 }
