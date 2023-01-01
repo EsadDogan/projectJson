@@ -55,6 +55,13 @@
             "age": 22,
             "mail": "baronOmer31@gmail.com",
             "urlimage": "https://i.ibb.co/nLTBcR0/omerOzen.png"
+        },
+        {
+            "firstname": "Yaren",
+            "lastname": "Ertutcu",
+            "age": 22,
+            "mail": "yarenertutcu@gmail.com",
+            "urlimage": "https://i.ibb.co/tDDbDDY/yaren-Ertutcu.png"
         }
     ]
 }
